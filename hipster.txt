@@ -1,1 +1,5 @@
 This is a verrrrry long text without using lorem ipsum
+
+These are new changes to the file. These are new lines
+
+This is also a new line
