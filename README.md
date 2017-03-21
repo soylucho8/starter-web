@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 This ia also another change
 
 ## Deployment
+
+## Copyright
+
+This is a copyright notice
