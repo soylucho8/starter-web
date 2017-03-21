@@ -7,8 +7,7 @@ This repository is for showing how Git and GitHub work. This is a simple project
 Sample website with plenty of files for demos
 
 ## How to contribute
-
-This ia also another change
+Please fork this repository and then issue pull request for review
 
 ## Deployment
 
